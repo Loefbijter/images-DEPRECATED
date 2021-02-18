@@ -1,0 +1,44 @@
+{
+    "images": [
+        {
+            "name": "Beerpong",
+            "url": "https://raw.githubusercontent.com/Loefbijter/images/master/evenementen/beerpong.min.jpg"
+        },
+        {
+            "name": "Borrelen",
+            "url": "https://raw.githubusercontent.com/Loefbijter/images/master/evenementen/borrelen.min.jpg"
+        },
+        {
+            "name": "Cafe classic",
+            "url": ""
+        },
+        {
+            "name": "Halloween",
+            "url": "https://raw.githubusercontent.com/Loefbijter/images/master/evenementen/halloween.min.jpg"
+        },
+        {
+            "name": "Kerst",
+            "url": ""
+        },
+        {
+            "name": "Promotie",
+            "url": "https://raw.githubusercontent.com/Loefbijter/images/master/evenementen/promotie.min.jpg"
+        },
+        {
+            "name": "RS500",
+            "url": ""
+        },
+        {
+            "name": "Sinterklaas",
+            "url": ""
+        },
+        {
+            "name": "Valken in de haven",
+            "url": "https://raw.githubusercontent.com/Loefbijter/images/master/evenementen/valken_in_haven-min.jpg"
+        },
+        {
+            "name": "Villafeest",
+            "url": "https://raw.githubusercontent.com/Loefbijter/images/master/evenementen/villafeest.min.jpg"
+        }
+    ]
+}

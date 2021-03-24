@@ -2,59 +2,67 @@
     "images": [
         {
             "name": "Beerpong",
-            "url": "https://raw.githubusercontent.com/Loefbijter/images/master/evenementen/beerpong.min.jpg"
+            "url": "https://images.loefbijter.nl/evenementen/beerpong.min.jpg"
         },
         {
             "name": "Borrelen",
-            "url": "https://raw.githubusercontent.com/Loefbijter/images/master/evenementen/borrelen.min.jpg"
+            "url": "https://images.loefbijter.nl/evenementen/borrelen.min.jpg"
         },
         {
             "name": "Cafe classic",
-            "url": "https://raw.githubusercontent.com/Loefbijter/images/master/evenementen/cafe_classic.min.jpg"
+            "url": "https://images.loefbijter.nl/evenementen/cafe_classic.min.jpg"
         },
         {
             "name": "Gala",
-            "url": "https://raw.githubusercontent.com/Loefbijter/images/master/evenementen/gala.min.jpg"
+            "url": "https://images.loefbijter.nl/evenementen/gala.min.jpg"
         },
         {
             "name": "Halloween",
-            "url": "https://raw.githubusercontent.com/Loefbijter/images/master/evenementen/halloween.min.jpg"
+            "url": "https://images.loefbijter.nl/evenementen/halloween.min.jpg"
         },
         {
             "name": "Introweekend",
-            "url": "https://raw.githubusercontent.com/Loefbijter/images/master/evenementen/introweekend.min.jpeg"
+            "url": "https://images.loefbijter.nl/evenementen/introweekend.min.jpeg"
         },
         {
             "name": "Kerst",
-            "url": "https://raw.githubusercontent.com/Loefbijter/images/master/evenementen/kerst.min.jpg"
+            "url": "https://images.loefbijter.nl/evenementen/kerst.min.jpg"
         },
         {
             "name": "Promotie",
-            "url": "https://raw.githubusercontent.com/Loefbijter/images/master/evenementen/promotie.min.jpg"
+            "url": "https://images.loefbijter.nl/evenementen/promotie.min.jpg"
         },
         {
             "name": "Sinterklaas",
-            "url": "https://raw.githubusercontent.com/Loefbijter/images/master/evenementen/sinterklaas.min.jpg"
+            "url": "https://images.loefbijter.nl/evenementen/sinterklaas.min.jpg"
         },
         {
             "name": "St. Anneke",
-            "url": "https://raw.githubusercontent.com/Loefbijter/images/master/evenementen/stanneke.min.jpg"
+            "url": "https://images.loefbijter.nl/evenementen/stanneke.min.jpg"
         },
         {
             "name": "Valken in de haven",
-            "url": "https://raw.githubusercontent.com/Loefbijter/images/master/evenementen/valken_in_haven.min.jpg"
+            "url": "https://images.loefbijter.nl/evenementen/valken_in_haven.min.jpg"
         },
         {
             "name": "Villafeest",
-            "url": "https://raw.githubusercontent.com/Loefbijter/images/master/evenementen/villafeest.min.jpg"
+            "url": "https://images.loefbijter.nl/evenementen/villafeest.min.jpg"
         },
         {
             "name": "Wedstrijd",
-            "url": "https://raw.githubusercontent.com/Loefbijter/images/master/evenementen/wedstrijd.min.jpg"
+            "url": "https://images.loefbijter.nl/evenementen/wedstrijd.min.jpg"
         },
         {
             "name": "Weekend",
-            "url": "https://raw.githubusercontent.com/Loefbijter/images/master/evenementen/weekend.min.jpeg"
+            "url": "https://images.loefbijter.nl/evenementen/weekend.min.jpeg"
+        },
+        {
+            "name": "Wijnen",
+            "url": "https://images.loefbijter.nl/evenementen/wijnen.min.jpeg"
+        },
+        {
+            "name": "Zwaardboot",
+            "url": "https://images.loefbijter.nl/evenementen/zwaardboot.min.jpg"
         }
     ]
 }
